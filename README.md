@@ -4,7 +4,8 @@
 ##### Portland State University - Power Engineering Group
 
 This repository contains the Modeling Environment for the EGoT project. The ME
-is currently in an early development stage.
+is currently in an early development stage. 
+# THIS IS OUT OF DATE. REFER INSTEAD TO https://github.com/PortlandStatePowerLab/doe-egot-me
 
 ## Description
 
